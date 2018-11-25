@@ -1,0 +1,10 @@
+.borde{
+    border-style: dotted;
+    border-color: black;
+    background-color: gray;
+    height: 5.5rem;
+}
+.borde2{
+    border-style: dotted;
+    align-content: center;
+}
